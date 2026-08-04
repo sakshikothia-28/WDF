@@ -1,0 +1,69 @@
+.header
+{
+    width: 100%;
+    height: 90px;
+    border-bottom: 1px solid black;
+}
+.logo
+{
+    width: 70px;
+    height:70px;
+    float: left;
+    margin: 10px;
+}
+.title
+{
+    float: left;
+    margin-top: 28px;
+    margin-left: 10px;
+}
+.navbar
+{
+    float: right;
+    margin-top: 28px;
+    margin-left: 10px;
+}
+.navbar a
+{
+    text-decoration: none;
+    margin-left: 20px;
+}
+.footer
+{
+    text-align: center;
+    padding: 270px;
+}
+.main
+{
+    height: 250px;
+    border-bottom: 1px solid black;
+}
+.image
+{
+    float: left;
+    margin: 50px;
+
+}
+.welcome
+{
+    float: left;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+.navtable
+{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+.navtable td
+{
+    padding: 30px;
+}
+.footer
+{
+    border-top: 1px solid black;
+    text-align:center;
+    padding: 15px;
+    margin-top: 20px;
+}

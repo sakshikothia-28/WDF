@@ -1,0 +1,89 @@
+.header
+{
+    width:100%;
+    height:90px;
+    border-bottom:1px solid black;
+    overflow:hidden;
+}
+.logo
+{
+    width:70px;
+    height:70px;
+    float:left;
+    margin:10px;
+}
+.title
+{
+    float:left;
+    margin-top:25px;
+    margin-left:10px;
+}
+.navbar
+{
+    float:right;
+    margin-top:35px;
+    margin-right:20px;
+}
+.navbar a
+{
+    text-decoration:none;
+    margin-left:25px;
+    color:black;
+}
+.result-box
+{
+    width:700px;
+    margin:40px auto;
+    border:1px solid black;
+    border-radius:20px;
+    padding:20px;
+    text-align:center;
+}
+.result-box input,
+.result-box select
+{
+    width:280px;
+    height:35px;
+    margin-top:5px;
+    text-align:center;
+}
+.result-box button
+{
+    width:150px;
+    height:35px;
+}
+table
+{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+}
+table,
+th,
+td
+{
+    border:1px solid black;
+}
+th,
+td
+{
+    padding:10px;
+    text-align:center;
+}
+textarea
+{
+    width:300px;
+    height:80px;
+    resize:none;
+}
+.help
+{
+    text-align:right;
+    margin-top:20px;
+}
+.footer
+{
+    text-align:center;
+    padding:15px;
+    margin-top:20px;
+}

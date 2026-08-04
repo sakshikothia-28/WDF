@@ -1,0 +1,70 @@
+.header
+{
+    width:100%;
+    height:90px;
+    border-bottom:1px solid black;
+    overflow:hidden;
+}
+.logo
+{
+    width:70px;
+    height:70px;
+    float:left;
+    margin:10px;
+}
+.title
+{
+    float:left;
+    margin-top:25px;
+    margin-left:10px;
+}
+.navbar
+{
+    float:right;
+    margin-top:35px;
+    margin-right:20px;
+}
+.navbar a
+{
+    text-decoration:none;
+    margin-left:25px;
+    color:black;
+}
+.announcement
+{
+    width:700px;
+    margin:20px auto;
+    border:1px solid #ccc;
+    border-radius:10px;
+    padding:20px;
+    position:relative;
+}
+.announcement h3
+{
+    margin:0;
+    margin-bottom:10px;
+}
+.announcement p
+{
+    margin:0;
+    width:80%;
+    line-height:25px;
+}
+.announcement span
+{
+    position:absolute;
+    top:20px;
+    right:20px;
+    font-weight:bold;
+}
+.help
+{
+    text-align:right;
+    margin-right:40px;
+    text-decoration:none;
+}
+.footer
+{
+    text-align:center;
+    padding:20px;
+}
