@@ -1,0 +1,155 @@
+body{
+    background-color: #F4F8FC;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.header
+{
+    width: 100%;
+    height: 90px;
+    border-bottom: 1px solid black;
+    background: linear-gradient(to right,#1E3A8A,#2563EB);
+    color:white;
+    padding:20px;
+}
+.logo
+{
+    width: 120px;
+    height:100px;
+    float: left;
+    margin: 0;
+    padding: 0;
+    display: block;
+    object-fit: contain;
+}
+.title
+{
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    color:white;
+    font-size: 50px;
+}
+.navbar
+{
+    float: right;
+    margin-top: 28px;
+    margin-right: 50px;
+}
+.navbar a
+{
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 8px;
+    border: 1px solid #1E3A8A;
+    padding: 10px 20px;
+    margin-left: 15px;
+    text-align: center;
+    color: #1E3A8A;
+    background-color: white;
+}
+.main
+{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 60px 80px;
+    width: 100%;
+    box-sizing: border-box;
+    background:white;
+}
+.image
+{
+    margin-right: 50px;
+    flex: 0 0 35%;
+}
+.image img
+{
+    width:320px;
+    height:auto;
+    display: block;
+}
+.welcome 
+{
+    flex: 1;
+    margin-left: 40px;
+}
+.welcome h1
+{
+    text-align: right;
+    font-size: 52px;
+    color:#1E3A8A;
+    line-height: 1.1;
+    text-align: left;
+    margin: 0;
+}
+.welcome h2
+{
+    font-size: 28px;
+    color: black;
+    font-weight: bold;
+    margin: 0 0 10px 0;
+}
+.welcome p
+{
+    color:#555;
+    font-size: 15px;
+    line-height: 1.6;
+    margin: 0;
+}
+.line
+{
+    background: #2563EB;
+    margin: 18px 0 22px 0;
+    border-radius: 3px;
+    width: 480px;
+    height: 4px;
+}
+hr
+{
+    border:1px solid #C8D7EE;
+}
+.navtable
+{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    border-spacing: 30px;
+}
+.navtable a
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 90px;
+    color: #1E3A8A; 
+}
+.navtable td
+{
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 200px;
+    height: 90px;
+    padding: 0;
+    background-color:white;
+    box-shadow:0px 2px 8px rgba(0,0,0,0.08);
+}
+.navtable td:hover
+{
+    background-color: #1E3A8A;
+}
+.navtable td:hover a
+{
+    color: white;
+}
+.footer
+{
+    border-top: 1px solid black;
+    text-align:center;
+    padding: 15px;
+    margin-top: 20px;
+    background:#1E3A8A;
+    color:white;
+}

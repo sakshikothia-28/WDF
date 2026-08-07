@@ -1,0 +1,101 @@
+body{
+    background-color: #F4F8FC;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.header
+{
+    width: 100%;
+    height: 90px;
+    border-bottom: 1px solid black;
+    background: linear-gradient(to right,#1E3A8A,#2563EB);
+    color:white;
+    padding:20px;
+}
+.logo
+{
+    width: 120px;
+    height:100px;
+    float: left;
+    margin: 0;
+    padding: 0;
+    display: block;
+    object-fit: contain;
+}
+.title
+{
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    color:white;
+    font-size: 50px;
+}
+.navbar
+{
+    float: right;
+    margin-top: 28px;
+    margin-right: 50px;
+}
+.navbar a
+{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border-radius: 8px;
+    border: 1px solid #1E3A8A;
+    padding: 10px 20px;
+    margin-left: 15px;
+    text-align: center;
+    color: #1E3A8A;
+    background-color: white;
+}
+.contact-container
+{
+    width:900px;
+    margin:40px auto;
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+}
+.contact-box,
+.contact-info
+{
+    width:350px;
+    border:1px solid black;
+    border-radius:20px;
+    padding:20px;
+}
+.contact-box input,
+.contact-box textarea
+{
+    width:100%;
+    height:35px;
+    margin-bottom:15px;
+}
+.contact-box textarea
+{
+    height:120px;
+    resize:none;
+}
+.contact-box button
+{
+    width:140px;
+    height:40px;
+}
+.contact-info
+{
+    text-align:center;
+}
+.contact-info p
+{
+    margin-bottom:25px;
+}
+.footer
+{
+    border-top: 1px solid black;
+    text-align:center;
+    padding: 15px;
+    margin-top: 20px;
+    background:#1E3A8A;
+    color:white;
+}

@@ -1,0 +1,114 @@
+body{
+    background-color: #F4F8FC;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.header
+{
+    width: 100%;
+    height: 90px;
+    border-bottom: 1px solid black;
+    background: linear-gradient(to right,#1E3A8A,#2563EB);
+    color:white;
+    padding:20px;
+}
+.logo
+{
+    width: 120px;
+    height:100px;
+    float: left;
+    margin: 0;
+    padding: 0;
+    display: block;
+    object-fit: contain;
+}
+.title
+{
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    color:white;
+    font-size: 50px;
+}
+.navbar
+{
+    float: right;
+    margin-top: 28px;
+    margin-right: 50px;
+}
+.navbar a
+{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border-radius: 8px;
+    border: 1px solid #1E3A8A;
+    padding: 10px 20px;
+    margin-left: 15px;
+    text-align: center;
+    color: #1E3A8A;
+    background-color: white;
+}
+.faq-box
+{
+    width:700px;
+    margin:40px auto;
+    text-align:center;
+}
+.faq-box input
+{
+    width:500px;
+    height:35px;
+    padding-left:10px;
+}
+.question
+{
+    display:block;
+    width:500px;
+    margin:15px auto;
+    padding:15px;
+    border:1px solid black;
+    border-radius:8px;
+    text-decoration:none;
+    color:black;
+    text-align:left;
+    font-weight:bold;
+}
+.question:hover
+{
+    background:#f3f3f3;
+}
+.contact-box
+{
+    width:500px;
+    margin:auto;
+    border:1px solid black;
+    border-radius:10px;
+    padding:20px;
+    overflow:hidden;
+}
+.left
+{
+    float:left;
+    text-align:left;
+}
+.right
+{
+    float:right;
+    margin-top:30px;
+    margin-right: 20px;
+}
+.right button
+{
+    width:150px;
+    height:40px;
+}
+.footer
+{
+    border-top: 1px solid black;
+    text-align:center;
+    padding: 15px;
+    margin-top: 20px;
+    background:#1E3A8A;
+    color:white;
+}
