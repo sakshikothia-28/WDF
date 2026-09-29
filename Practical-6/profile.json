@@ -1,0 +1,13 @@
+{
+    "studentId": "25DCE048",
+    "name": "Sakshi Kothia",
+    "gender": "Female",
+    "age": 19,
+    "dob": "28/11/2006",
+    "semester": 3,
+    "department": "Computer Engineering",
+    "email": "25dce048@charusat.edu.in",
+    "contact": "+91 9512577077",
+    "address": "Charusat, Changa, Gujarat",
+    "photo": "../Images/Photo.jpg"
+}

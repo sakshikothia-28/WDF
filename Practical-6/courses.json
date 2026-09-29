@@ -1,0 +1,122 @@
+[
+{
+    "id": 1,
+    "name": "Web Development",
+    "category": "Programming",
+    "semester": 1,
+    "instructor": "Dr. Mehta",
+    "duration": "12 Weeks"
+},
+{
+    "id": 2,
+    "name": "Data Structures",
+    "category": "Programming",
+    "semester": 2,
+    "instructor": "Prof. Shah",
+    "duration": "14 Weeks"
+},
+{
+    "id": 3,
+    "name": "Computer Networks",
+    "category": "Networking",
+    "semester": 3,
+    "instructor": "Dr. Patel",
+    "duration": "12 Weeks"
+},
+{
+    "id": 4,
+    "name": "Database Management",
+    "category": "Database",
+    "semester": 3,
+    "instructor": "Prof. Desai",
+    "duration": "14 Weeks"
+},
+{
+    "id": 5,
+    "name": "Object Oriented Programming",
+    "category": "Programming",
+    "semester": 2,
+    "instructor": "Dr. Joshi",
+    "duration": "13 Weeks"
+},
+{
+    "id": 6,
+    "name": "Operating Systems",
+    "category": "Systems",
+    "semester": 4,
+    "instructor": "Prof. Mehta",
+    "duration": "14 Weeks"
+},
+{
+    "id": 7,
+    "name": "Software Engineering",
+    "category": "Software",
+    "semester": 4,
+    "instructor": "Dr. Shah",
+    "duration": "12 Weeks"
+},
+{
+    "id": 8,
+    "name": "Artificial Intelligence",
+    "category": "AI",
+    "semester": 5,
+    "instructor": "Prof. Patel",
+    "duration": "15 Weeks"
+},
+{
+    "id": 9,
+    "name": "Machine Learning",
+    "category": "AI",
+    "semester": 5,
+    "instructor": "Dr. Desai",
+    "duration": "15 Weeks"
+},
+{
+    "id": 10,
+    "name": "Cyber Security",
+    "category": "Security",
+    "semester": 5,
+    "instructor": "Prof. Joshi",
+    "duration": "12 Weeks"
+},
+{
+    "id": 11,
+    "name": "Cloud Computing",
+    "category": "Cloud",
+    "semester": 6,
+    "instructor": "Dr. Mehta",
+    "duration": "14 Weeks"
+},
+{
+    "id": 12,
+    "name": "Mobile Application Development",
+    "category": "Development",
+    "semester": 6,
+    "instructor": "Prof. Shah",
+    "duration": "13 Weeks"
+},
+{
+    "id": 13,
+    "name": "Computer Graphics",
+    "category": "Graphics",
+    "semester": 4,
+    "instructor": "Dr. Patel",
+    "duration": "12 Weeks"
+},
+{
+    "id": 14,
+    "name": "Internet of Things",
+    "category": "IoT",
+    "semester": 6,
+    "instructor": "Prof. Desai",
+    "duration": "14 Weeks"
+},
+{
+    "id": 15,
+    "name": "DevOps",
+    "category": "Cloud",
+    "semester": 7,
+    "instructor": "Dr. Joshi",
+    "duration": "12 Weeks"
+}
+]
